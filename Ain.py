@@ -39,9 +39,10 @@ NN7 = Aa13 * Ainx
 NN8 = Aa23 * Ainx
 NN9 = Aa33 * Ainx
 #OUTPUT
+print '================='
 print 'Matrix Value'
 print Ma
-print
+print '================='
 print 'a11'
 print NN1
 print
