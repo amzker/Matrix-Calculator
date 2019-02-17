@@ -11,3 +11,6 @@ Ain.py is for A^-1 finding , And cacl.py is for just simple calculation of findi
      cd Matrix-Calculator
      chmod 755 *
      
+# Video 
+https://m.youtube.com/watch?v=_8kZ8X2EGv0
+
